@@ -10,4 +10,4 @@
 
 ![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview.PNG?raw=true)
 ![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview2.PNG?raw=true)
-![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/tree.PNG?raw=true)
+![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview3.PNG?raw=true)
