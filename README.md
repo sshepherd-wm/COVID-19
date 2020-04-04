@@ -1,6 +1,6 @@
 # COVID-19 - Data Exploration Tutorial with Python and SQL
 
-1) Download the Jupyter notebook file 'COVID-19 Data Exploration.ipynb' above.  Don't open it yet.
+1) Right click on the file 'COVID-19 Data Exploration.ipynb' above and save it on your computer
 2) Download and install Anaconda's python distribution https://www.anaconda.com/distribution/
 3) Launch Anaconda Navigator (could take a minute to spin up)
 4) Launch 'Jupyter Notebook'
