@@ -6,7 +6,7 @@
 4) Launch 'Jupyter Notebook'
 5) Once Jupyter opens in your web browser, navigate to Documents -> Python Scripts
 6) Hit 'Upload' in the upper righthand corner, and select the notebook you downloaded in step 1
-7) Click on the notebook to open it, and start running!
+7) Click on the notebook to open it and start running
 
 ![Preview](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview.PNG?raw=true)
 ![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview2.PNG?raw=true)
