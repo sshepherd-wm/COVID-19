@@ -1,2 +1,1 @@
-# COVID-19
-SQL/Python data exploration tutorial using JHU COVID-19 data
+COVID-19 - Data Exploration Tutorial with Python and SQL
