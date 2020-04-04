@@ -1,5 +1,7 @@
 # COVID-19 - Data Exploration Tutorial with Python and SQL
 
+#### A jump-start for using Python and SQL on everyday .csv files on your computer / on web to do basic analysis, make visualizations, and reporting automation
+
 1) Right click on the file 'COVID-19 Data Exploration.ipynb' above and save it on your computer
 2) Download and install Anaconda's python distribution https://www.anaconda.com/distribution/
 3) Launch Anaconda Navigator (could take a minute to spin up)
