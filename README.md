@@ -2,7 +2,7 @@
 
 #### A jump-start for using Python and SQL on everyday .csv files on your computer or on the web to do basic analysis, make visualizations, and automate reporting.  Examples of common data manipulation tasks run on JHU COVID-19 datasets.
 
-1) Right click on the file 'COVID-19 Data Exploration.ipynb' above and save it on your computer
+1) Right click on the file 'COVID-19 Data Exploration.ipynb' above and save it on your computer (in 'View code' if on mobile)
 2) Download and install Anaconda's python distribution https://www.anaconda.com/distribution/
 3) Launch Anaconda Navigator (could take a minute to spin up)
 4) Launch 'Jupyter Notebook'
