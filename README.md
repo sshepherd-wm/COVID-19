@@ -11,6 +11,7 @@
 7) Click on the notebook to open it and start running
  
 
-![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview.PNG?raw=true)
-![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview2.PNG?raw=true)
-![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/preview3.PNG?raw=true)
+![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/time.PNG?raw=true)
+![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/query.PNG?raw=true)
+![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/dashboard.PNG?raw=true)
+![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/tree.PNG?raw=true)
