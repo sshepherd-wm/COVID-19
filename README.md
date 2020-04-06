@@ -10,6 +10,7 @@
 6) Hit 'Upload' in the upper righthand corner, and select the notebook you downloaded in step 1
 7) Click on the notebook to open it and start running
  
+(as of 2020-04-05)
 
 ![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/time.PNG?raw=true)
 ![](https://github.com/sshepherd-wm/COVID-19/blob/master/images/query.PNG?raw=true)
